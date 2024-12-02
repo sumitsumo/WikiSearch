@@ -1,0 +1,42 @@
+<mediawiki>
+    <page>
+        <title>Introduction to Spring Boot</title>
+        <revision>
+            <text>
+                Spring Boot is a framework for building Java-based applications. It provides pre-configured templates for microservices and monolithic systems.
+            </text>
+        </revision>
+    </page>
+    <page>
+        <title>Getting Started with MySQL</title>
+        <revision>
+            <text>
+                MySQL is an open-source relational database management system. It is used for data storage and retrieval in web applications.
+            </text>
+        </revision>
+    </page>
+    <page>
+        <title>What is REST API?</title>
+        <revision>
+            <text>
+                REST stands for Representational State Transfer. It is an architectural style for designing networked applications using stateless protocols like HTTP.
+            </text>
+        </revision>
+    </page>
+    <page>
+        <title>Introduction to Kubernetes</title>
+        <revision>
+            <text>
+                Kubernetes is an open-source platform for automating deployment, scaling, and operations of application containers.
+            </text>
+        </revision>
+    </page>
+    <page>
+        <title>Understanding OAuth 2.0</title>
+        <revision>
+            <text>
+                OAuth 2.0 is a standard for token-based authorization, widely used for securing API access in modern applications.
+            </text>
+        </revision>
+    </page>
+</mediawiki>
